@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 const product = {
     name: 'Super Sneakers',
